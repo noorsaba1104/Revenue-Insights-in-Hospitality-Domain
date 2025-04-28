@@ -94,9 +94,9 @@ Here are some screenshots from the dashboard and analysis:
 ## 📥 **Download Dashboard**
 
 You can download the dashboard file here:  
-<a herf="https://app.powerbi.com/view?r=eyJrIjoiY2U0Mzg3OTMtNGU1MC00Y2QyLTgwYzctMDg4N2ZiMmIyNDM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"></a>
+### Dashboard Link : https://app.powerbi.com/viewr=eyJrIjoiY2U0Mzg3OTMtNGU1MC00Y2QyLTgwYzctMDg4N2ZiMmIyNDM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 🔗 **Connect with Me**
 
 Feel free to connect with me on LinkedIn:  
-<a herf="https://www.linkedin.com/in/noorsaba-ms/")
+https://www.linkedin.com/in/noorsaba-ms/
